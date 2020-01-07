@@ -1,0 +1,16 @@
+RDBMS vs DBMS
+
+Why RDBMS?
+
+Why normalisation?
+disadvantages of normalisation
+
+What is Globalisation?
+Why Globalisation?
+disadvantages of globalisation
+
+Vendors of ERP?
+
+What is DB Arch?
+
+What is Oracle EBS?
