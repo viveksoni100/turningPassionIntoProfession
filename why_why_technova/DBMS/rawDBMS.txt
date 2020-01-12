@@ -1,16 +1,18 @@
-RDBMS vs DBMS
+best use case for each database
+mongo:
+	if you need dynamic queries.
+	if you prefer to define indexes, not map and reduced functions. if you need good performance on a big DB and when your data changes too much
 
-Why RDBMS?
+casa:
+	when data you need to store doesn't fit on server. but requires friendly familiar interface to it.
 
-Why normalisation?
-disadvantages of normalisation
+elasti:
+	when you have objects with flexible fields, and you need "advanced serch" functionality
 
-What is Globalisation?
-Why Globalisation?
-disadvantages of globalisation
-
-Vendors of ERP?
-
-What is DB Arch?
-
-What is Oracle EBS?
+couch:
+	any application that requires low-latency data access, high concurrency support and high availability
+  
+  *TYPE*
+  SQL vs NOSQL
+  
+  
