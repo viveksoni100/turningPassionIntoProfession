@@ -1,2 +1,16 @@
 Why PalmVein is far better biometric input? And how developers can build an application that works with PalmVein scanners?
 
+How palm-scanning identification works :
+The scanner emits infrared light. Hemoglobin in the veins absorbs the light...creating an image of the vein pattern that is reflected back and captured by the scanner.
+-takes snapshot of palm veins
+-converts into algorithm
+-compares with database
+
+The scan is stored in a database. A returning user's vein pattern is compared against the database to determine if there is a match.
+
+What are the benefits :
+the veins are located beneath the skin’s surface and, furthermore, the scans rely on blood flowing through living humans, palm vein scans are virtually impossible to counterfeit.
+The systems are typically contactless, which makes them more hygienic than touch-based systems.
+Palm scanners are also more protective of individual privacy than some biometric technologies, such as facial recognition, because a sample cannot usually be captured without the person’s knowledge or consent.
+
+
