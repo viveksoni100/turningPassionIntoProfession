@@ -1,1 +1,2 @@
-PalmVeins
+Why PalmVein is far better biometric input? And how developers can build an application that works with PalmVein scanners?
+
