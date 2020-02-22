@@ -13,4 +13,18 @@ the veins are located beneath the skin’s surface and, furthermore, the scans r
 The systems are typically contactless, which makes them more hygienic than touch-based systems.
 Palm scanners are also more protective of individual privacy than some biometric technologies, such as facial recognition, because a sample cannot usually be captured without the person’s knowledge or consent.
 
+3. Result of experiments
+As a result of the Fujitsu research using data from 140,000 palms (70,000 individuals), Fujitsu has confirmed that
+the FAR is 0.00008% and the FRR is 0.01%, with the following condition: a person must hold the palm over the
+sensor for three scans during registration, and then only one final scan is permitted to confirm authentication.
 
+4. Practical applications
+A rapidly increasing problem among financial sectors in Japan is the illegal withdrawal of bank funds using stolen
+or skimmed fake bankcards. To address this, palm vein authentication has been utilized for customer confirmation
+of transactions at bank windows or ATMs.
+
+Fujitsu palm vein authentication technology offers contactless authentication and provides a hygienic and non-
+invasive solution, thus promoting a high-level of user acceptance. Fujitsu believes that a vein print is extremely
+difficult to forge and therefore contributes to a high level of security, because the technology measures hemoglobin
+flow through veins internal to the body. The opportunities to implement palm vein technology span a wide range of
+applications.
